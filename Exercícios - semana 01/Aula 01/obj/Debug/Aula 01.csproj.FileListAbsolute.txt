@@ -1,0 +1,8 @@
+C:\Users\LENOVO  T430\Desktop\coding girls\Exercícios - semana 01\Aula 01\bin\Debug\Aula 01.exe.config
+C:\Users\LENOVO  T430\Desktop\coding girls\Exercícios - semana 01\Aula 01\bin\Debug\Aula 01.exe
+C:\Users\LENOVO  T430\Desktop\coding girls\Exercícios - semana 01\Aula 01\bin\Debug\Aula 01.pdb
+C:\Users\LENOVO  T430\Desktop\coding girls\Exercícios - semana 01\Aula 01\obj\Debug\Aula 01.csproj.AssemblyReference.cache
+C:\Users\LENOVO  T430\Desktop\coding girls\Exercícios - semana 01\Aula 01\obj\Debug\Aula 01.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO  T430\Desktop\coding girls\Exercícios - semana 01\Aula 01\obj\Debug\Aula 01.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO  T430\Desktop\coding girls\Exercícios - semana 01\Aula 01\obj\Debug\Aula 01.exe
+C:\Users\LENOVO  T430\Desktop\coding girls\Exercícios - semana 01\Aula 01\obj\Debug\Aula 01.pdb
